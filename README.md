@@ -25,3 +25,14 @@
 # [Discord Server 🌙](https://discord.gg/SerhM4kRGe) | [Website](https://github.com/MoonTeam-Dev)
 
 ***
+</div align="center">
+<p> Made by MoonTeam-Dev:</p>
+</div></br>
+
+<div align="center"> 
+   - ᴘᴀʀᴢɪᴠᴀʟ ☾  ||  
+   - ꜱᴀᴛᴀɴɪᴄ ☾  ||  
+   - ᴀʀʙᴀʙ ᴍᴀᴛɪɴ ☾
+</div>
+
+----
