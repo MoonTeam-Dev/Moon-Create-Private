@@ -1,5 +1,5 @@
 
-# Channel Master -- Join to Create Bot
+# Moon -- Join to Create Bot
 **Note this Discord Bot Repository is the Same as for the Public Bot [GitHub](https://github.com/MoonTeam-Dev) if u want to support me, then please [invite Night Music](https://discord.com/oauth2/authorize?client_id=978770905020911686&permissions=8&scope=bot%20applications.commands) him!**
 
 ## [**DISCORD SUPPORT SERVER MOON TEAM**](https://discord.gg/SerhM4kRGe)
