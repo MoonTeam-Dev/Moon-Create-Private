@@ -24,11 +24,3 @@
 
 ## [Discord Server 🌙](https://discord.gg/SerhM4kRGe) | [Website](https://github.com/MoonTeam-Dev)
 
-***
-
-## SUPPORT ME AND MILRATO DEVELOPMENT
-
-
-# Credits
-
-> If consider using this Bot, make sure to credit me!
